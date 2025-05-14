@@ -1,5 +1,6 @@
 # global
 name = "Naveen"
+from rpsi import rock_paper_scsissors
 
 # def greeting():
 #     print(name)
@@ -43,3 +44,5 @@ def another():
     greeting("suresh")
 
 another()
+
+rock_paper_scsissors()
